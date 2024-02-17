@@ -1,4 +1,4 @@
-placing single ites(1frame)
+placing single items(1frame)
 	move,frame,click (might even have some sub frame shinanagans)
 	if you wish to swap items or change rotation do so after move, before frame
 placing line with corners(2+2*corners frames)

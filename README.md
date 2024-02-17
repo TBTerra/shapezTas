@@ -9,3 +9,9 @@ mods contain 3 mods
 3. betterSave is used to make factories load in the same state they were saved in (only works with new saves)
 
 as this tas tool uses frame advance, it cannot be recorded by normal recording software, instead it is recorded frame by frame, and the audio is reconstructed to sound like it would if the game was running at 60fps
+
+to use this you will need to compile sounds.cpp to sounds.exe (TAS does not need this, but recording system will)
+
+Ive also included the input data fro the BP% run
+
+The code is a mess, and the input sintax is clunky, for a longer run, i will be re-writing most of this
