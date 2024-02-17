@@ -1,0 +1,820 @@
+key 2
+key r
+click 10 -8
+key r
+click 11 -4
+click 10 -2
+rclick 6 -3
+click 6 -3
+click 3 -4
+key r
+click 4 -5
+key r
+click 4 -11
+key shift+r
+click 2 -10
+click 2 -8
+click 1 -9
+click 2 -2
+key 1
+rclick 3 -6
+rclick 6 -2
+rclick 1 -8
+line 5 -2 3 -2
+line 4 -12 3 -12 3 -11
+line 2 -7 2 -6
+click 3 -3
+click 3 -5
+line 9 -1 5 -1
+line 0 -9 0 -7 1 -7
+##top squares done
+key 2
+key r
+line -4 13 -14 13
+line -1 14 1 12
+click 2 13
+click -5 12
+click -9 12
+click -13 12
+key 1
+line 2 11 2 2
+line -4 11 1 11
+line 1 10 1 8
+line -8 11 -8 10 0 10 0 2
+line -12 11 -12 9 -1 9 -1 2
+key 2
+line -8 4 -12 4
+key r
+click -5 6
+click -5 4
+click -4 5
+key shift+r
+click -9 3
+click -11 3
+click -10 2
+click -4 2
+key 1
+line -7 3 -4 3
+line -3 5 -3 3
+line -9 1 -9 0 -3 0
+rclick -7 7
+key 2
+line -19 11 -17 9
+click -16 10
+key 1
+line -16 8 -8 8
+line -2 7 -2 2
+key 1
+camera 55 -24
+key 2
+key shift+r
+line 78 -19 74 -23 74 -25 78 -29
+line 73 -24 24 -24
+click 83 -23
+key r
+click 85 -25
+key 2
+camera 2 -24
+key 2
+key shift+r
+line 23 -24 0 -24
+key shift+r
+line -1 -23 -1 -10
+key 1
+line -1 -25 -2 -25 -2 -24
+click -1 -24
+key 1
+camera -6 -88
+key 2
+line -4 -97 -8 -93 -10 -93 -14 -97
+line -9 -92 -9 -73
+click -8 -102
+key r
+click -10 -104
+key 2
+camera -3 -56
+key 2
+key shift+r
+line -9 -72 -9 -42
+key 2
+camera -3 -24
+key 2
+line -9 -41 -9 -26
+key r
+click 13 -12
+key shift+r
+line -3 -23 -3 -10
+key 1
+line -9 -25 -3 -25 -3 -24
+line -10 -25 -10 -24 -4 -24
+key 1
+camera -5 2
+rclick 3 1
+key 2
+line -1 -7 -1 -9 -3 -9 -3 -4
+key 1
+line -1 -6 0 -6
+line -2 -6 -2 -5 -1 -5
+line -3 -3 -2 -3
+line -4 -3 -4 -2 -3 -2
+key 2
+line -7 -7 -19 -7
+line -6 -4 -20 -4
+click -7 -3
+click -11 -3
+click -15 -3
+click -19 -3
+key shift+r
+line -25 0 -25 4
+line -22 -1 -22 5
+click -21 0
+click -21 4
+click -19 1
+click -14 -1
+click -6 -2
+key 1
+line -19 -2 -19 0 -11 0
+line -11 -2 -11 -1 -3 -1
+click -7 -2
+line -20 1 -11 1
+click -24 1
+click -24 3
+click -24 5
+line -20 4 -20 2
+line -15 -2 -15 -1
+click -20 -6
+click -18 -6
+click -16 -6
+click -12 -6
+click -10 -6
+click -8 -6
+key 2
+key r
+key r
+click 18 11
+click 16 11
+click 10 11
+click 8 11
+key 2
+camera 11 10
+key 2
+click 34 14
+click 33 13
+key r
+click 39 12
+click 41 20
+click 39 22
+key r
+click 42 23
+key shift+r
+line 4 3 18 3
+rclick 6 1
+click 5 2
+click 9 2
+click 13 2
+click 17 2
+line 17 7 5 7
+key shift+r
+line 9 14 9 18
+line 5 13 5 19
+click 4 18
+click 4 14
+click 4 1
+click 12 0
+click 13 -4
+key 1
+line 8 14 6 14
+line 8 16 6 16
+line 8 18 6 18
+line 5 6 5 4
+line 7 6 7 4
+line 9 6 9 1
+key shift+r
+line 9 0 5 0
+line 13 6 13 0
+line 15 6 15 4
+line 17 6 17 4
+line 17 1 17 -1 11 -1
+key 1
+
+camera 54 40
+key 2
+line 68 52 68 54 67 53
+click 70 53
+click 64 25
+key r
+line 71 49 73 49 72 48
+key r
+click 73 51
+click 70 25
+key r
+line 73 54 73 55 71 57 70 56
+key 2
+camera 52 9
+key 2
+line 59 12 58 13
+key r
+line 55 11 54 12
+click 57 7
+line 55 7 54 6
+key r
+click 56 8
+click 59 6
+line 59 4 57 4 58 3
+line 65 22 63 22 64 21
+line 71 23 69 23 70 22
+key 2
+
+camera 30 -71
+key 2
+key shift+r
+click 49 -87
+key shift+r
+line 49 -85 51 -85 50 -84
+key 2
+camera 30 -40
+key 2
+click 51 -38
+click 51 -36
+click 52 -35
+key shift+r
+click 53 -38
+key 2
+
+camera 27 -15
+key 2
+key r
+key r
+click 45 -21
+click 44 -20
+click 42 -20
+click 40 -20
+click 38 -20
+click 36 -20
+click 34 -20
+click 32 -20
+click 30 -20
+click 28 -20
+click 26 -20
+click 24 -20
+line 23 -19 43 -19
+line 42 -18 24 -18
+line 23 -17 43 -17
+line 38 -16 22 -16
+line 21 -15 37 -15
+line 38 -14 20 -14
+line 19 -13 39 -13
+line 26 -12 40 -12
+line 25 -11 41 -11
+line 24 -10 42 -10
+click 44 -10
+click 45 -11
+line 41 -9 25 -9
+line 24 -8 42 -8
+line 43 -7 23 -7
+key 2
+keyD ctrl
+line 23 -19 43 -19
+key del
+line 39 -16 19 -15
+key del
+line 25 -12 41 -12
+key del
+line 42 -9 24 -9
+key del
+keyU ctrl
+key 1
+line 47 -21 21 -21
+line 44 -22 33 -22 33 -21
+keyD ctrl
+line 43 -20 21 -20
+line 42 -17 20 -17
+line 42 -14 20 -14
+line 43 -10 21 -10
+line 42 -7 20 -7
+keyU ctrl
+line 42 -18 20 -18
+line 42 -13 20 -13
+line 46 -11 21 -11
+line 44 -12 33 -12 33 -11
+line 42 -8 20 -8
+key 2
+click 44 -30
+click 45 -31
+click 42 -30
+click 40 -30
+click 38 -30
+click 36 -30
+click 34 -30
+click 32 -30
+click 30 -30
+click 28 -30
+click 26 -30
+click 24 -30
+line 25 -29 41 -29
+line 42 -28 24 -28
+line 23 -27 43 -27
+key 2
+keyD ctrl
+line 42 -29 24 -29
+key del
+keyU ctrl
+key 1
+line 43 -31 21 -31
+line 44 -32 33 -32 33 -31
+keyD ctrl
+line 43 -30 21 -30
+line 42 -27 20 -27
+keyU ctrl
+line 42 -28 20 -28
+key 1
+
+camera -90 5
+key 2
+line -75 -5 -75 -7 -77 -5
+click -61 3
+key r
+click -122 5
+click -122 3
+line -74 -10 -72 -10 -73 -11
+line -60 0 -62 0 -61 -1
+key r
+line -119 4 -119 8 -118 7
+click -118 3
+click -72 -8
+line -70 -6 -70 -4 -69 -5
+line -70 5 -70 7 -68 5
+key r
+click -72 -4
+click -121 8
+key 1
+line -121 9 -120 9
+key 1
+camera -92 31
+key 2
+line -121 42 -119 42 -121 44
+key shift+r
+line -106 24 -106 26 -105 25
+click -108 24
+key shift+r
+line -121 39 -119 39 -121 37
+key 2
+
+camera -46 -5
+key 2
+key r
+click -52 -23
+click -50 -23
+click -48 -23
+click -46 -23
+click -44 -23
+click -42 -23
+click -40 -23
+click -38 -23
+click -36 -23
+click -34 -23
+click -32 -23
+line -53 -22 -39 -22
+line -38 -21 -54 -21
+line -55 -20 -37 -20
+line -56 -19 -36 -19
+line -39 -18 -55 -18
+line -56 -17 -38 -17
+line -37 -16 -57 -16
+line -36 -15 -50 -15
+line -51 -14 -35 -14
+click -32 -13
+line -34 -13 -52 -13
+line -39 -12 -53 -12
+line -54 -11 -38 -11
+line -37 -10 -55 -10
+line -56 -9 -36 -9
+line -39 -8 -55 -8
+line -56 -7 -38 -7
+line -37 -6 -57 -6
+key 2
+keyD ctrl
+line -55 -20 -37 -21
+key del
+line -56 -17 -38 -17
+key del
+line -51 -14 -35 -14
+key del
+line -37 -11 -55 -10
+key del
+line -56 -7 -38 -7
+key del
+keyU ctrl
+key 2
+click -58 -15
+click -58 -5
+key 1
+line -56 -15 -34 -15
+line -56 -5 -34 -5
+line -58 -8 -33 -8
+line -60 -18 -33 -18
+line -57 -14 -46 -14 -46 -15
+line -57 -4 -46 -4 -46 -5
+keyD ctrl
+line -56 -6 -34 -6
+line -55 -9 -33 -9
+line -55 -12 -33 -12
+line -56 -16 -34 -16
+line -55 -19 -33 -19
+line -55 -22 -33 -22
+keyU ctrl
+line -55 -23 -33 -23
+line -55 -13 -33 -13
+key 2
+click -57 -2
+click -55 -2
+click -53 -2
+click -51 -2
+click -49 -2
+click -47 -2
+click -45 -2
+click -43 -2
+click -41 -2
+click -39 -2
+click -37 -2
+line -38 -1 -54 -1
+line -55 0 -37 0
+line -36 1 -56 1
+line -49 2 -35 2
+line -34 3 -50 3
+line -51 4 -33 4
+line -32 5 -52 5
+line -53 6 -39 6
+line -38 7 -54 7
+line -55 8 -37 8
+click -57 8
+key 2
+keyD ctrl
+line -55 0 -37 0
+key del
+line -51 4 -33 3
+key del
+line -38 7 -54 7
+key del
+keyU ctrl
+key 2
+click -58 -3
+click -58 7
+key 1
+line -56 -2 -34 -2
+line -56 8 -34 8
+line -57 -3 -46 -3 -46 -2
+line -57 7 -46 7 -46 8
+keyD ctrl
+line -56 -1 -34 -1
+line -33 2 -55 2
+line -55 5 -33 5
+line -34 9 -56 9
+keyU ctrl
+line -55 1 -33 1
+line -55 6 -33 6
+line -58 2 -57 2
+key 1
+camera -34 19
+key 2
+click -56 11
+click -54 11
+click -52 11
+click -50 11
+click -48 11
+click -46 11
+click -44 11
+click -42 11
+click -40 11
+click -38 11
+click -36 11
+line -49 12 -35 12
+line -34 13 -50 13
+line -51 14 -33 14
+line -32 15 -52 15
+line -53 16 -39 16
+line -38 17 -54 17
+line -55 18 -37 18
+line -38 19 -54 19
+line -55 20 -37 20
+line -36 21 -56 21
+line -49 22 -35 22
+line -34 23 -50 23
+line -51 24 -33 24
+line -32 25 -52 25
+key 2
+keyD ctrl
+line -51 14 -33 13
+key del
+line -38 17 -54 17
+key del
+line -55 20 -37 20
+key del
+line -33 24 -51 23
+key del
+keyU ctrl
+key 2
+click -58 17
+click -57 18
+key 1
+line -56 18 -34 18
+line -57 17 -46 17 -46 18
+keyD ctrl
+line -55 12 -33 12
+line -55 15 -33 15
+line -34 19 -56 19
+line -55 22 -33 22
+line -33 25 -55 25
+keyU ctrl
+line -55 11 -33 11
+line -55 16 -33 16
+line -55 21 -33 21
+line -55 26 -33 26
+key 1
+
+#lv 10 green,blue,stars part A
+camera 17 -107
+key 2
+key up
+click 27 -123
+click 24 -121
+key left
+click 25 -123
+click 24 -122
+click 22 -119
+key down
+click 27 -120
+click 29 -120
+click 28 -119
+click 27 -118
+click 23 -117
+click 25 -117
+click 24 -116
+key 1
+line 21 -119 21 -118 22 -118
+key 1
+camera 22 -78
+key 2
+key left
+line 6 -69 6 -67 4 -69
+key 1
+line 20 -94 20 -71 -8 -71 -8 -62
+line 24 -94 24 -64
+line 26 -94 26 -64
+key 1
+camera 20 -49
+key 4
+key left
+line 6 -36 6 -38
+click 7 -39
+key up
+click 8 -39
+key 2
+key left
+line 5 -56 5 -54 3 -56
+line 23 -57 23 -55 22 -56
+line 38 -42 38 -40 36 -42
+key down
+line 28 -54 30 -54 28 -52
+key up
+click 25 -58
+key 1
+line 25 -59 24 -59 24 -58
+line 38 -45 37 -45 37 -43
+line 8 -40 7 -40
+click 3 -37
+key 2
+key left
+line 6 -39 4 -37 5 -36
+key down
+line 14 -36 0 -36
+key 1
+line 26 -63 27 -63 27 -56 25 -56 25 -44 10 -44 10 -37
+line 24 -63 0 -63 0 -47
+line 12 -43 12 -37
+line 14 -42 14 -37
+line 40 -48 41 -48
+click 42 -43
+line 42 -41 43 -41
+line -8 -61 -8 -42
+key 2
+key up
+click 39 -47
+key right
+line 42 -48 42 -46 43 -47
+line 41 -43 41 -41
+line 43 -43 44 -42
+key 1
+line 45 -41 45 -34
+line 44 -46 46 -46 46 -34
+key 1
+camera 38 -39
+key 2
+key down
+line 54 -40 56 -38 57 -39
+click 60 -40
+key right
+click 58 -42
+key left
+click 68 -42
+click 67 -41
+key 1
+line 55 -37 55 -27 49 -27
+line 59 -39 59 -26 49 -26
+key 1
+#lv 10 green,blue,stars part A done
+
+#lv 10 green,blue,stars part B
+camera -75 -62
+key 2
+key left
+line -95 -77 -97 -75 -96 -74
+key right
+line -93 -75 -91 -77 -92 -78
+key 1
+line -98 -75 -98 -53 -44 -53
+line -90 -76 -90 -54 -44 -54
+key 1
+camera -48 -42
+key 2
+line -69 -41 -67 -39 -68 -38
+key left
+click -73 -40
+key up
+line -73 -43 -71 -43 -72 -44
+key 1
+line -71 -45 -71 -52 -29 -52
+line -66 -39 -66 -51 -28 -51 -28 -50
+line -43 -53 -27 -53 -27 -50
+line -43 -54 -17 -54 -17 -50
+key 1
+#lv 10 green,blue,stars part B done
+
+
+#lv 9 red,blue,circles partA
+camera -34 61
+key 2
+key right
+line -59 58 -59 56 -58 57
+line -57 55 -57 53 -56 54
+key up
+click -60 53
+click -12 67
+line -13 65 -15 65 -14 64
+key down
+click -13 68
+click -61 59
+key left
+line -16 68 -16 70 -17 69
+key 1
+line -55 54 -17 54 -17 44
+line -57 57 -16 57 -16 46
+line -18 68 -18 61 -13 61 -13 44
+line -13 63 -3 63 -3 50
+line -20 76 -20 58 -14 58 -14 44
+line -19 76 -19 59 -15 59
+key 1
+camera -49 44
+key 2
+key up
+click -77 52
+click -76 51
+key right
+line -75 55 -73 57 -74 58
+click -70 55
+click -68 50
+key 1
+line -67 50 -67 48 -49 48 -49 28 -44 28
+line -72 57 -65 57 -65 49 -48 49 -48 38 -44 38
+line -64 60 -64 50 -47 50 -47 43
+line -63 60 -63 51 -46 51 -46 40 -44 40
+key 1
+camera -40 74
+key 2
+key right
+click -53 70
+key up
+line -53 68 -55 68 -54 67
+key left
+line -56 73 -58 71 -57 70
+key 1
+line -59 70 -64 70 -64 61
+line -54 66 -63 66 -63 61
+line -45 89 -45 59
+line -44 89 -44 59
+key 1
+camera -12 87
+key 2
+key up
+click -41 86
+line -39 84 -41 84 -40 83
+line 8 96 6 96 7 95
+key right
+line -39 89 -37 87 -38 86
+line 8 87 10 85 9 84
+key left
+line 6 85 4 87 5 88
+click 7 99
+line 5 104 5 102 4 103
+key 1
+line -39 82 -20 82 -20 77
+line -36 87 -19 87 -19 77
+line 3 102 1 102 1 81 3 81 3 71
+line 7 94 2 94 2 82 4 82 4 71
+line 3 86 3 83 7 83 7 71
+line 11 85 17 85 17 74
+key 1
+camera -39 106
+key 2
+key left
+click -26 123
+key up
+line -23 120 -27 120 -26 119
+line -21 118 -23 118 -22 117
+key 1
+line -27 122 -27 121
+line -26 118 -45 118 -45 90
+line -22 116 -44 116 -44 90
+key 1
+camera 14 60
+key 1
+line 3 70 3 44
+line 4 70 4 47 5 47
+line 7 70 7 44
+line 17 73 17 44
+line -3 49 -3 44
+key 1
+camera 13 32
+key 2
+key right
+click 24 38
+click 26 38
+click 28 39
+click 29 38
+key down
+line 24 41 26 43 27 42
+key 1
+line 25 44 19 44
+line 30 39 30 45 19 45
+key 1
+#lv 9 red,blue,circles partA done
+
+#lv12 lines 1-4 stuff
+camera 193 3
+key 2
+key left
+line 222 13 164 13
+line 196 -8 196 -10 194 -8
+click 195 -12
+line 193 -12 193 -10 192 -11
+line 190 -7 164 -7
+key up
+line 168 18 170 16 171 17
+key 2
+camera 204 31
+key 2
+key left
+line 227 29 175 29
+line 175 31 208 31
+line 212 44 175 44
+click 227 22
+line 225 23 225 21 224 22
+line 212 39 210 37 211 36
+key up
+line 215 34 213 32 212 33
+click 229 21
+line 229 19 227 19 228 18
+key right
+click 230 23
+line 232 23 232 21 233 22
+key down
+click 228 24
+line 228 26 230 26 229 27
+line 215 39 219 39 217 41 213 41 214 42
+key 2
+camera 151 15
+key 2
+key down
+line 172 20 170 22 169 21
+key left
+line 166 18 139 18
+line 163 13 140 13
+key 2
+
+camera 0 5
+until 3068 waiting for lv5
+keyD ctrl
+line 3 12 -1 19
+key del
+keyU ctrl
+key 2
+key up
+line 2 12 2 3
+key 1
+line 3 17 2 17 2 13
+click 3 13
+key shift+r
+click 10 -1
+key 1
+wait 1
+level 959 643

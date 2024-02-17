@@ -1,0 +1,372 @@
+upgrade 1 658 304 658 466
+key 5
+key r
+click -4 -4
+key shift+r
+click 1 3
+key r
+click -3 3
+click -4 1
+click -7 -3
+click -8 -1
+click -7 1
+click -1 6
+click -4 5
+click 6 -9
+click 8 -6
+click 8 -4
+key 1
+line 7 -8 9 -8
+line 9 -5 10 -5 10 -3
+click 9 -3
+key 0
+click -3 -3
+click -6 -2
+click -7 0
+click -6 2
+click -3 2
+click -2 4
+click -3 6
+click 0 7
+click 2 2
+click 7 -9
+click 9 -4
+click 9 -6
+key 0
+camera -6 26
+key 5
+key shift+r
+click 2 29
+click 1 27
+click 0 25
+click -1 23
+click -2 21
+key 1
+line 3 28 3 14
+line 2 26 2 14
+line 1 24 1 14
+line 0 22 0 15
+line -1 20 -1 15
+key 0
+click 2 28
+click 1 26
+click 0 24
+click -1 22
+click -2 20
+key 0
+camera 1 5
+key 5
+line 17 9 5 9
+key r
+line -28 4 -28 0
+key r
+line -19 -10 -7 -10
+key r
+line 11 14 11 18
+key 1
+line 17 11 13 11
+line 9 11 5 11
+key r
+keyD ctrl
+line 17 10 13 10
+line 9 10 5 10
+key r
+line -26 5 -26 1
+click -27 1
+click -27 3
+click -27 5
+key r
+line -20 -8 -8 -8
+click -20 -9
+click -18 -9
+click -16 -9
+click -12 -9
+click -10 -9
+click -8 -9
+keyU ctrl
+key 1
+camera 3 0
+key 5
+click 11 -12
+click 11 -16
+key 1
+line 15 -6 15 -12 14 -12
+click 12 -12
+line 12 -5 12 -8
+line 12 -13 12 -16
+key 1
+
+# lv12 lines 1-4 extra mines
+camera 114 -24
+key 4
+key right
+line 105 -39 105 -38
+key down
+line 104 -37 106 -37
+key 1
+line 106 -38 107 -38 107 -37
+line 105 -36 105 -13 94 -13
+key 1
+camera 208 27
+key 4
+key up
+line 227 20 228 20
+line 229 22 230 22
+click 230 20
+line 212 34 214 34
+line 215 35 216 35
+key left
+line 212 35 212 37
+line 213 38 213 39
+line 226 23 226 22
+line 228 22 228 21
+click 226 20
+key down
+line 227 23 228 23
+line 228 25 230 25
+line 219 38 214 38
+line 214 40 212 40
+click 216 40
+key right
+click 231 24
+line 229 24 229 23
+line 231 22 231 21
+key 1
+key up
+click 229 20
+key down
+click 227 25
+line 228 19 228 12 223 12
+line 227 21 223 21 223 13
+line 230 23 234 23 234 29 228 29
+click 228 28
+line 213 33 213 30 209 30
+line 211 36 209 36 209 31
+key 1
+camera 190 30
+key 1
+line 216 41 216 44 213 44
+click 213 43
+key down
+click 215 40
+key 4
+key up
+line 168 19 169 19
+line 170 18 172 18
+key down
+line 172 19 171 19
+line 170 20 168 20
+key 1
+line 170 17 170 15 167 15 167 17
+line 169 21 169 23 167 23 167 18
+key 1
+camera 143 20
+key 4
+key up
+line 136 4 134 4
+line 133 5 132 5
+key 4
+camera 118 46
+key 4
+key up
+line 107 54 105 54
+line 104 55 103 55
+key left
+line 102 55 102 56
+line 101 57 101 58
+key down
+click 102 57
+key 1
+line 102 58 102 59 99 59
+line 100 58 92 58 92 48
+line 105 53 105 51 96 51 96 47
+line 90 47 95 47
+key 1
+camera 64 108
+key 4
+key up
+line 88 120 90 120
+key left
+line 87 123 87 121
+key right
+line 88 124 88 121
+key 1
+line 89 122 91 122 91 120
+keyD ctrl
+line 90 117 90 118 88 118
+keyU ctrl
+line 86 121 86 118 87 118
+line 86 122 85 122 85 121
+key 1
+
+camera -150 -24
+key 4
+key down
+line -175 -39 -172 -39
+click -175 -37
+key right
+line -172 -37 -172 -36
+line -170 -36 -170 -35
+click -170 -38
+key 1
+line -171 -37 -170 -37
+line -174 -38 -174 -34 -168 -34 -168 -35
+key 1
+camera -184 17
+key 4
+key left
+line -196 21 -196 22
+line -197 23 -197 25
+line -171 21 -171 24
+click -173 21
+key right
+line -195 21 -195 23
+line -196 24 -196 25
+line -171 19 -171 20
+line -170 21 -170 23
+key 1
+line -198 24 -200 24 -200 31 -192 31
+line -194 23 -192 23 -192 30
+line -172 22 -175 22 -175 29 -167 29
+line -169 22 -167 22 -167 28
+key 1
+camera -221 16
+key 4
+key up
+line -247 4 -245 4
+line -244 5 -243 5
+key down
+line -247 5 -246 5
+line -245 6 -243 6
+key 1
+line -245 3 -245 1 -242 1 -242 10
+line -244 7 -244 11 -242 11
+key 1
+camera -197 106
+key 4
+key right
+line -217 120 -217 121
+click -218 122
+click -215 119
+key up
+click -215 118
+click -218 121
+line -219 122 -220 122
+key left
+line -216 118 -216 119
+key 1
+line -217 122 -216 122
+line -216 121 -213 121 -213 119
+click -214 119
+click -218 118
+line -219 121 -219 118
+key 1
+
+
+camera -88 -64
+#until 1740 space for bp prep
+key 4
+key left
+line -107 -78 -107 -77
+line -108 -76 -108 -74
+key down
+line -106 -78 -105 -78
+line -107 -76 -106 -76
+click -104 -76
+key 1
+line -105 -77 -105 -65
+key 1
+camera -85 -35
+key 4
+line -105 -23 -103 -23
+key left
+line -104 -24 -104 -25
+key right
+line -103 -24 -103 -25
+key up
+line -103 -26 -105 -26
+key 1
+line -105 -24 -106 -24 -106 -23
+line -101 -25 -101 -26 -102 -26
+key 1
+camera 76 -32
+key 4
+key right
+line 72 -43 72 -42
+line 73 -41 73 -39
+key left
+line 105 -42 105 -41
+line 104 -40 104 -38
+key 1
+line 74 -40 95 -40 95 -37
+line 103 -39 101 -39 101 -36 98 -36
+key 1
+
+#lv11 extra lane mines
+camera 0 114
+key 4
+key down
+line 19 103 20 103
+line 21 104 23 104
+line -9 121 -10 121
+line -11 122 -15 122
+click -14 124
+key up
+line -14 121 -15 121
+key 1
+line -15 120 -15 119 -16 119 -16 123
+line -12 123 -12 127 -15 127
+click -15 126
+click -18 124
+click -17 117
+click 21 116
+key 1
+camera -75 113
+key 4
+key up
+line -105 117 -103 117
+line -91 105 -89 105
+key right
+line -90 106 -90 107
+line -104 118 -104 119
+key 1
+line -103 118 -102 118 -102 117
+line -89 106 -88 106 -88 105
+line -103 116 -103 96
+line -89 104 -89 96
+click -83 126
+click -46 124
+click -49 126
+key left
+click -49 127
+key 1
+camera -75 85
+key 1
+line -89 96 -89 72 -83 72 -83 71
+line -103 96 -103 71 -87 71
+key 1
+
+
+camera 3 0
+##wait till near lv end
+until 1811 waiting for lv3/4
+keyD ctrl
+line -11 -4 -3 0
+key del
+line -11 1 -7 4
+key del
+line -6 1 -4 3
+key del
+line -5 2 0 7
+key del
+keyU ctrl
+rclick 1 3
+rclick 2 2
+rclick -2 -4
+key 1
+line 1 3 1 2
+key 1
+wait 1
+level 959 379
+wait 1
+level 959 683

@@ -1,0 +1,88 @@
+#lv11 output hookups (for stackers not yet built)
+camera 33 0
+#assumes both rotators and balancers are in base variant
+key 6
+key down
+click 21 -11
+click 25 -11
+click 29 -11
+click 33 -11
+click 37 -11
+click 41 -11
+click 45 -11
+click 49 -11
+click 53 -11
+click 57 -11
+key t
+line 59 -11 23 -11
+key 2
+key t
+key left
+line 59 -10 3 -10
+line 41 -9 4 -9
+rclick 41 -10
+key up
+line 10 8 10 1
+line 6 9 6 2
+click 32 9
+click 39 -7
+key t
+key down
+click 41 -10
+key left
+line 56 9 7 9
+line 32 8 11 8
+line 63 -7 18 -7
+line 39 -8 18 -8
+key t
+wait 1
+key 2
+
+camera -30 -11
+key 6
+key up
+click -58 -11
+click -54 -11
+click -50 -11
+click -46 -11
+click -42 -11
+click -38 -11
+click -34 -11
+click -30 -11
+click -26 -11
+click -22 -11
+click -58 -21
+click -54 -21
+click -50 -21
+click -46 -21
+click -42 -21
+click -38 -21
+click -34 -21
+click -30 -21
+click -26 -21
+click -22 -21
+key t
+line -20 -11 -56 -11
+line -20 -21 -56 -21
+key t
+key 2
+key t
+key right
+line -58 -12 -19 -12
+line -58 -22 -19 -22
+line -40 -13 -19 -13
+line -40 -23 -19 -23
+line -61 -2 -12 -2
+line -38 -3 -8 -3
+rclick -40 -12
+rclick -40 -22
+rclick -38 -2
+key t
+key up
+click -40 -12
+click -40 -22
+click -38 -2
+
+
+until 12659 wait til lv 11
+level 959 685 10 308

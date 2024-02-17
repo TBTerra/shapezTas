@@ -1,0 +1,445 @@
+camera -35 -4
+#lv8 tunnel placement start
+key 3
+click -60 -13
+click -60 -17
+key r
+click -64 2
+click -59 2
+click -61 11
+click -57 11
+key shift+r
+keyD ctrl
+line -56 -17 -34 -17
+line -34 -7 -56 -7
+key r
+key r
+line -56 0 -34 0
+line -34 10 -56 10
+click -56 -20
+click -54 -20
+click -52 -20
+click -50 -20
+click -48 -20
+click -46 -20
+click -44 -20
+click -42 -20
+click -40 -20
+click -38 -20
+click -36 -20
+click -34 -20
+click -34 -10
+click -36 -10
+click -38 -10
+click -40 -10
+click -42 -10
+click -44 -10
+click -46 -10
+click -48 -10
+click -50 -10
+click -52 -10
+click -54 -10
+click -56 -10
+key r
+key r
+click -56 3
+click -54 3
+click -52 3
+click -50 3
+click -48 3
+click -46 3
+click -44 3
+click -42 3
+click -40 3
+click -38 3
+click -36 3
+click -34 3
+keyU ctrl
+key 3
+camera -31 11
+key 3
+key r
+click -61 22
+click -57 22
+key r
+keyD ctrl
+line -56 20 -34 20
+key r
+key r
+click -56 13
+click -54 13
+click -52 13
+click -50 13
+click -48 13
+click -46 13
+click -44 13
+click -42 13
+click -40 13
+click -38 13
+click -36 13
+click -34 13
+click -34 23
+click -36 23
+click -38 23
+click -40 23
+click -42 23
+click -44 23
+click -46 23
+click -48 23
+click -50 23
+click -52 23
+click -54 23
+click -56 23
+keyU ctrl
+key 3
+#lv8 tunnel placed end
+
+#lv7 tunnel place start
+camera 18 0
+key 3
+key shift+r
+click 48 2
+click 44 2
+click 49 -7
+click 44 -7
+key r
+keyD ctrl
+line 43 14 21 14
+line 21 4 43 4
+key r
+key r
+line 43 -9 21 -9
+click 43 11
+click 41 11
+click 39 11
+click 37 11
+click 35 11
+click 33 11
+click 31 11
+click 29 11
+click 27 11
+click 25 11
+click 23 11
+click 21 11
+click 21 1
+click 23 1
+click 25 1
+click 27 1
+click 29 1
+click 31 1
+click 33 1
+click 35 1
+click 37 1
+click 39 1
+click 41 1
+click 43 1
+key r
+key r
+click 43 -6
+click 41 -6
+click 39 -6
+click 37 -6
+click 35 -6
+click 33 -6
+click 31 -6
+click 29 -6
+click 27 -6
+click 25 -6
+click 23 -6
+click 21 -6
+keyU ctrl
+key 3
+camera 18 -15
+key 3
+key shift+r
+click 49 -17
+click 44 -17
+key shift+r
+keyD ctrl
+line 43 -29 21 -29
+line 21 -19 43 -19
+key r
+key r
+click 43 -26
+click 41 -26
+click 39 -26
+click 37 -26
+click 35 -26
+click 33 -26
+click 31 -26
+click 29 -26
+click 27 -26
+click 25 -26
+click 23 -26
+click 21 -26
+click 21 -16
+click 23 -16
+click 25 -16
+click 27 -16
+click 29 -16
+click 31 -16
+click 33 -16
+click 35 -16
+click 37 -16
+click 39 -16
+click 41 -16
+click 43 -16
+keyU ctrl
+key 3
+#lv7 tunnel place end
+
+#lv 10 green,blue,stars part A
+camera 18 -30
+key 3
+key down
+click 2 -46
+click 2 -44
+click 0 -46
+click 0 -44
+key 1
+line 2 -43 2 -37
+line 0 -43 0 -37
+key 1
+#lv 10 green,blue,stars part A done
+
+#lv 9 bits
+camera 2 50
+key 3
+key right
+click -14 59
+click -9 59
+click -15 46
+click -10 46
+click 6 47
+click 11 47
+key left
+click 18 45
+click 13 45
+click 12 45
+click 9 45
+click 8 45
+click 6 45
+click 18 44
+click 16 44
+key 1
+line 5 45 5 44
+click 15 44
+line 12 47 14 47 14 44
+line -8 59 -5 59 -5 44
+line -9 46 -7 46 -7 44
+key 1
+#lv 9 bits done
+
+#lv12 lines 1-4 blue painters tunnels
+camera 107 20
+key 3
+key up
+keyD ctrl
+line 133 31 101 31
+line 136 14 121 14
+line 116 11 101 11
+key down
+click 133 26
+click 131 26
+click 129 26
+click 127 26
+click 125 26
+click 123 26
+click 121 26
+click 119 26
+click 116 27
+click 114 27
+click 112 27
+click 110 27
+click 107 27
+click 105 27
+click 103 27
+click 101 27
+click 136 9
+click 134 9
+click 132 9
+click 130 9
+click 127 9
+click 125 9
+click 123 9
+click 121 9
+click 116 7
+click 114 7
+click 112 7
+click 110 7
+click 107 7
+click 105 7
+click 103 7
+click 101 7
+keyU ctrl
+key 3
+
+#lv12 lines 1-4 white mixer inputs (not the factories themselves)
+camera 77 6
+key 3
+key down
+click 95 -4
+click 95 -1
+click 95 0
+click 95 5
+click 97 0
+click 97 5
+click 99 2
+click 99 5
+key 3
+camera 69 33
+key 3
+key up
+click 96 46
+click 96 44
+click 95 46
+click 95 44
+key left
+click 91 48
+click 88 48
+keyD ctrl
+line 76 45 76 47
+key right
+line 71 47 71 45
+key left
+line 70 45 70 47
+key right
+line 65 47 65 45
+keyU ctrl
+click 73 30
+click 76 30
+key left
+click 65 19
+click 60 19
+click 65 18
+click 60 18
+key 3
+
+#lv12 lines 5-6 white mixer inputs (not the factories themselves)
+camera -97 17
+key 3
+key up
+click -124 12
+click -124 9
+click -123 13
+click -123 9
+click -111 8
+click -111 6
+key right
+click -110 27
+click -105 27
+click -102 27
+click -100 27
+click -102 29
+click -100 29
+click -91 27
+click -89 27
+click -91 29
+click -89 29
+key up
+click -90 26
+click -90 24
+click -82 28
+click -82 26
+keyD ctrl
+key right
+line -107 10 -107 22
+line -88 10 -88 22
+key left
+click -105 10
+click -105 14
+click -105 18
+click -105 22
+click -86 10
+click -86 14
+click -86 18
+click -86 22
+keyU ctrl
+key 3
+
+#lv12 lines 5-6 blue back tunnels
+camera -71 -2
+key 3
+keyD ctrl
+key right
+line -95 -14 -95 0
+line -86 -14 -86 0
+key left
+click -92 -14
+click -92 -12
+click -92 -10
+click -92 -8
+click -92 -6
+click -92 -4
+click -92 -2
+click -92 0
+click -83 -14
+click -83 -12
+click -83 -10
+click -83 -8
+click -83 -6
+click -83 -4
+click -83 -2
+click -83 0
+keyU ctrl
+key down
+click -89 1
+click -89 4
+key right
+click -80 1
+click -77 1
+key 1
+line -89 5 -87 5
+key 2
+key right
+click -76 0
+key 2
+
+#lv7 exit placement start
+camera 18 -15
+until 6347 waiting till lv7
+keyD ctrl
+line 18 -25 48 -24
+key del
+keyU ctrl
+key 2
+key left
+click 39 -23
+click 37 -23
+click 35 -23
+click 33 -23
+click 31 -23
+click 29 -23
+click 27 -23
+click 25 -23
+click 23 -23
+click 21 -23
+click 19 -23
+line 19 -3 19 -1
+line 21 -3 21 -1
+line 23 -3 23 -1
+line 25 -3 25 -1
+line 27 -3 27 -1
+line 29 -3 29 -1
+line 31 -3 31 -1
+line 33 -3 33 -1
+line 35 -3 35 -1
+line 37 -3 37 -1
+line 39 -3 39 -1
+key 1
+line 42 -23 20 -23
+line 42 -3 20 -3
+line 42 -2 20 -2
+key r
+keyD ctrl
+line 20 -1 42 -1
+key r
+key r
+line 42 -4 20 -4
+line 20 -24 42 -24
+keyU ctrl
+key 1
+#lv7 exit placement end
+
+wait 1
+level 959 737

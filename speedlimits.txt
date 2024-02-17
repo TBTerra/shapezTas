@@ -1,0 +1,17 @@
+placing single ites(1frame)
+	move,frame,click (might even have some sub frame shinanagans)
+	if you wish to swap items or change rotation do so after move, before frame
+placing line with corners(2+2*corners frames)
+	move,frame,down,move1,frame,frame,move2,frame,frame,move3,frame,up
+	maybe only one frame per corner, but then they can get a little odd (not 100% reliable)
+placing line
+	move,frame,down,move1,frame,up(2frames)
+note: drags seem to be much more touchy with frame timings, leave extra few ms spare
+Select and delete (3 frames)
+	move,frame,ctrlD,down,move,frame,up,ctrlU,del,frame
+camera moves:(5 frames)
+	move,frame,down,move1,4frames,up
+
+
+note: any extractor placed within the first 2.5sec of the game starting will all output at the same time
+this means that as long as its put down in that time, it will act like it was placed tick1

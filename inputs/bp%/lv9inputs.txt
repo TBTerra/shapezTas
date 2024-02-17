@@ -1,0 +1,439 @@
+key 8
+key left
+line 39 -20 18 -20
+line 39 -30 18 -30
+key down
+line 13 -35 13 -14
+line 3 -35 3 -14
+line -7 -35 -7 -14
+key 1
+keyD ctrl
+key up
+line 38 -20 20 -20
+line 38 -30 20 -30
+key left
+line 13 -34 13 -16
+line 3 -34 3 -16
+line -7 -34 -7 -16
+keyU ctrl
+key 1
+camera -9 -34
+key 8
+key down
+line -17 -48 -17 -27
+line -27 -48 -27 -27
+key 1
+keyD ctrl
+key left
+line -17 -47 -17 -29
+line -27 -47 -27 -29
+keyU ctrl
+key 1
+camera 1 31
+key 8
+key up
+line -16 42 -16 21
+line -6 42 -6 21
+line 4 42 4 21
+line 14 42 14 21
+key 1
+keyD ctrl
+key right
+line -16 41 -16 23
+line -6 41 -6 23
+line 4 41 4 23
+line 14 41 14 23
+keyU ctrl
+key 1
+camera -20 32
+key 8
+key right
+line -42 28 -21 28
+line -42 38 -21 38
+key 1
+keyD ctrl
+key down
+line -41 28 -23 28
+line -41 38 -23 38
+keyU ctrl
+key 1
+
+#lv12 lines 5-6 mixer placement
+camera -73 11
+key 8
+key right
+line -103 8 -103 22
+line -98 8 -98 22
+line -84 8 -84 22
+line -79 8 -79 22
+key 8
+#sneak in output extensions for 8 tick cost
+keyD ctrl
+line -71 5 -67 8
+key del
+keyU ctrl
+key 2
+key right
+line -79 3 -63 3
+line -71 5 -63 5
+line -71 7 -63 7
+key 2
+#lv12 lines 1-4 mixer placement
+camera 61 3
+key 8
+key up
+line 77 -10 91 -10
+line 77 -5 91 -5
+line 77 11 91 11
+line 77 16 91 16
+key 8
+camera 64 29
+key 8
+key up
+line 79 32 93 32
+line 79 37 93 37
+key right
+line 49 28 49 42
+line 54 28 54 42
+key 8
+
+#lv11 extra lane(star mixers)
+camera -60 54
+key 8
+key up
+line -86 69 -86 48
+key 1
+keyD ctrl
+key right
+line -86 68 -86 50
+keyU ctrl
+key 1
+camera -40 30
+key 1
+line -59 46 -59 14
+key 1
+##add mixers here
+
+##reuse of extractor 3 belts, unsure how close i can go, for now bunching up to the upgrade
+camera -3 10
+until 9543 painter 2 pre-wait
+keyD ctrl
+line -18 19 -19 23
+key del
+keyU ctrl
+key 2
+key up
+line -19 23 -19 19
+key 1
+key up
+click -19 18
+click -18 18
+click -19 17
+key 1
+camera 0 0
+key 1
+line -4 -12 -4 -11
+rclick -15 -10
+line -14 -12 -14 -10
+key 2
+key down
+line -16 -12 -16 -6
+key 1
+key down
+rclick -18 -4
+click -17 -4
+click -17 -5
+click -16 -5
+key 1
+keyD ctrl
+line -17 -3 -11 8
+key del
+keyU ctrl
+#extractor 3 upgrade
+until 9568 waiting til painter 2
+upgrade 4 658 791 920 463
+
+#lv11 left pre-placement, cant be much earlier
+camera -35 -6
+keyD ctrl
+line -18 -23 -63 -3
+key del
+line -18 -10 -62 9
+key del
+keyU ctrl
+key 1
+line -62 -24 -62 -14 -19 -14 -19 -15
+line -63 -15 -63 -4 -19 -4 -19 -5
+line -60 -13 -43 -13
+line -60 -3 -43 -3
+line -18 -7 -57 -7 -57 -8
+line -18 -17 -57 -17 -57 -18
+key 2
+key right
+click -61 -4
+click -60 -5
+click -56 -5
+click -52 -5
+click -48 -5
+click -44 -5
+click -42 -4
+click -40 -5
+click -36 -5
+click -32 -5
+click -28 -5
+click -24 -5
+click -61 -14
+click -60 -15
+click -56 -15
+click -52 -15
+click -48 -15
+click -44 -15
+click -42 -14
+click -40 -15
+click -36 -15
+click -32 -15
+click -28 -15
+click -24 -15
+key 1
+key up
+keyD ctrl
+line -59 -5 -23 -5
+line -21 -8 -53 -8
+line -59 -15 -23 -15
+line -21 -18 -53 -18
+key 3
+key up
+line -59 -6 -19 -6
+line -19 -16 -59 -16
+key down
+click -59 -18
+click -55 -18
+click -51 -18
+click -47 -18
+click -43 -18
+click -39 -18
+click -35 -18
+click -31 -18
+click -27 -18
+click -23 -18
+click -19 -18
+click -59 -8
+click -55 -8
+click -51 -8
+click -47 -8
+click -43 -8
+click -39 -8
+click -35 -8
+click -31 -8
+click -27 -8
+click -23 -8
+click -19 -8
+keyU ctrl
+key 5
+key up
+line -59 -9 -19 -9
+line -19 -19 -59 -19
+key 0
+click -18 -10
+click -59 -10
+click -59 -20
+click -18 -20
+key 2
+key left
+click -20 -7
+click -24 -7
+click -28 -7
+click -32 -7
+click -36 -7
+click -40 -7
+click -44 -7
+click -48 -7
+click -52 -7
+click -20 -17
+click -24 -17
+click -28 -17
+click -32 -17
+click -36 -17
+click -40 -17
+click -44 -17
+click -48 -17
+click -52 -17
+key 2
+
+##lv12 lines 5-6 pre-placement
+key 2
+key right
+line -63 7 -39 7
+line -63 3 -62 3
+line -63 0 -64 0
+key 1
+line -63 6 -39 6 -39 2 -17 2
+line -60 5 -40 5 -40 0
+line -38 7 -38 5 -16 5 -16 0
+line -61 2 -41 2
+key 2
+click -62 1
+click -60 1
+click -58 1
+click -56 1
+click -54 1
+click -52 1
+click -50 1
+click -48 1
+click -46 1
+click -44 1
+click -61 4
+click -59 4
+click -57 4
+click -55 4
+click -53 4
+click -51 4
+click -49 4
+click -47 4
+click -45 4
+click -43 4
+key 1
+keyD ctrl
+key up
+line -61 1 -41 1 -41 0 -61 0
+line -60 4 -42 4
+line -36 4 -18 4
+line -37 1 -17 1 -17 0 -37 0
+keyU ctrl
+key 2
+click -37 4
+click -35 4
+click -33 4
+click -31 4
+click -29 4
+click -27 4
+click -25 4
+click -23 4
+click -21 4
+click -19 4
+click -38 1
+click -36 1
+click -34 1
+click -32 1
+click -30 1
+click -28 1
+click -26 1
+click -24 1
+click -22 1
+click -20 1
+key 3
+keyD ctrl
+key up
+line -60 3 -42 3
+line -36 3 -18 3
+key down
+click -60 0
+click -58 0
+click -56 0
+click -54 0
+click -52 0
+click -50 0
+click -48 0
+click -46 0
+click -44 0
+click -42 0
+click -36 0
+click -34 0
+click -32 0
+click -30 0
+click -28 0
+click -26 0
+click -24 0
+click -22 0
+click -20 0
+click -18 0
+keyU ctrl
+key 3
+
+#lv11 extra lane
+camera -35 5
+keyD ctrl
+line -58 18 -20 9
+key del
+keyU ctrl
+key 1
+line -58 20 -58 18 -43 18
+line -55 17 -22 17 -22 16 -19 16
+line -57 14 -17 14 -17 13
+keyD ctrl
+key up
+line -55 16 -23 16
+line -57 13 -21 13
+keyU ctrl
+key 2
+key right
+click -58 13
+click -54 13
+click -50 13
+click -46 13
+click -42 13
+click -38 13
+click -34 13
+click -30 13
+click -26 13
+click -22 13
+click -56 16
+click -52 16
+click -48 16
+click -44 16
+click -40 16
+click -36 16
+click -32 16
+click -28 16
+click -24 16
+click -57 17
+click -42 17
+key 3
+keyD ctrl
+key up
+line -55 15 -19 15
+key down
+click -55 13
+click -51 13
+click -47 13
+click -43 13
+click -39 13
+click -35 13
+click -31 13
+click -27 13
+click -23 13
+click -19 13
+keyU ctrl
+key 5
+key up
+line -57 12 -17 12
+key 0
+click -57 11
+click -16 11
+key 0
+
+
+camera 0 0
+rclick -19 11
+key 1
+key up
+click 20 0
+key 1
+
+until 12280 pre-emptive cyan star redirect(fairly well tuned)
+rclick 16 -15
+key 1
+line 16 -15 18 -15
+rclick -16 -17
+key down
+click -16 -17
+key left
+click -17 -17
+rclick -17 -7
+click -17 -7
+key 1
+
+until 12556
+camera 33 -1
+until 12561 wait till lv 10
+level 959 658

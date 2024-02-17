@@ -1,0 +1,609 @@
+zoom -5
+key 4
+line -7 4 -9  4
+line -7 5 -12 5
+key r
+click -6 4
+click -6 5
+click -6 7
+key r
+click -7 7
+click 6 -3
+click 5 -4
+click 4 -8
+key r
+click 3 -9
+click 3 -8
+click 5 -6
+click 5 -5
+#places lv1 extractors
+key 1
+line 6 -2 6 1 2 1
+line 5 -3 5 0 2 0
+line 4 -5 4 -1 2 -1
+line 4 -6 2 -6 2 -2
+line 4 -7 1 -7 1 -3
+line 2 -8 0 -8 0 -3
+line 2 -9 -1 -9 -1 -3
+#square belts placed
+line -11 4 -11 -4 -2 -4 -2 -3
+line -10 4 -10 -3 -5 -3 -5 -2 -3 -2
+line -9 3 -9 -1 -3 -1
+line -8 3 -8 1 -6 1 -6 0 -3 0
+line -7 3 -5 3 -5 1 -3 1
+line -5 4 -4 4 -4 3 -2 3 -2 2
+line -5 5 -1 5 -1 2
+line -5 7 -2 7 -2 6 0 6 0 2
+line -7 8 1 8 1 2
+key 1
+#circle belts placed
+camera -2 22
+key 4
+click -11 29
+click -11 28
+click -8 25
+key r
+click -11 27
+click -10 27
+line -8 24 -5 24
+click -24 37
+click -25 37
+key r
+line -6 25 -6 28
+click -9 28
+line -23 39 -23 37
+key r
+click -7 26
+click -9 29
+click -10 29
+#lower squares mines placed
+key 1
+line -10 30 -14 30 -14 14
+line -12 29 -13 29 -13 14
+line -12 28 -12 14
+line -11 26 -11 14
+line -10 26 -10 14
+line -9 25 -9 14
+line -8 23 -8 14
+line -7 23 -7 14
+line -6 23 -6 14
+line -5 23 -5 14
+line -5 25 -4 25 -4 14
+line -5 26 -3 26 -3 14
+line -5 27 -2 27 -2 22
+line -5 28 -1 28 -1 24
+line -7 27 -7 29 0 29 0 26
+line -8 28 -8 30 1 30 1 28
+line -9 30 -9 31 2 31 2 30
+line -24 36 -18 36 -18 12
+line -22 37 -17 37 -17 11
+line -22 38 -16 38 -16 11
+line -22 39 -15 39 -15 11
+line -25 36 -25 35 -19 35 -19 12
+##lower square belts placed (subject to change)
+key 1
+#start star1
+camera 58 -29
+key 4
+key shift+r
+click 86 -23
+key r
+click 86 -22
+key r
+click 85 -21
+line 84 -22 84 -24
+line 82 -24 82 -26
+key r
+click 83 -26
+click 84 -26
+click 87 -25
+click 85 -24
+click 86 -24
+key 1
+line 87 -23 87 -19 79 -19
+line 86 -21 86 -20 79 -20
+line 84 -21 78 -21
+line 83 -22 77 -22
+line 83 -23 76 -23
+line 81 -24 75 -24
+line 81 -25 75 -25
+line 81 -26 76 -26
+line 83 -27 77 -27
+line 84 -27 84 -28 78 -28
+line 85 -25 85 -29 79 -29
+line 87 -26 87 -30 79 -30
+key 1
+#end star1
+#start star2
+camera 5 -92
+key 4
+click -8 -104
+key r
+click -7 -104
+key r
+line -6 -103 -9 -103
+line -9 -101 -11 -101
+key r
+line -11 -102 -11 -104
+click -9 -105
+click -9 -104
+key 1
+line -8 -105 -4 -105 -4 -98
+line -6 -104 -5 -104 -5 -98
+line -6 -102 -6 -97
+line -7 -102 -7 -96
+line -8 -102 -8 -95
+line -9 -100 -9 -94
+line -10 -100 -10 -94
+line -11 -100 -11 -95
+line -12 -102 -12 -96
+line -12 -103 -13 -103 -13 -97
+line -12 -104 -14 -104 -14 -98
+line -10 -105 -15 -105 -15 -98
+key 1
+#end star2
+camera -8 -14
+key 4
+click -26 -31
+key r
+click -28 -28
+key r
+click -25 -31
+key r
+click -25 -30
+click -26 -30
+click -27 -28
+click -28 -27
+click -29 -28
+key 1
+line -24 -31 -24 -17 -7 -17 -7 -11
+line -28 -29 -30 -29 -30 0 -29 0
+line -27 -31 -31 -31 -31 2 -29 2
+line -29 -27 -29 -12 -19 -12 -19 -11
+line -28 -26 -28 -13 -17 -13 -17 -11
+line -27 -27 -27 -14 -15 -14 -15 -11
+line -26 -29 -26 -15 -11 -15 -11 -11
+line -25 -29 -25 -16 -9 -16 -9 -11
+key 1
+camera 15 10
+key 4
+key r
+line 37 24 37 25
+key r
+line 37 23 40 23
+line 40 21 41 21
+key r
+line 41 22 41 24
+key r
+line 39 25 38 25
+key 1
+line 42 22 42 -4 14 -4
+line 42 23 43 23 43 -5 15 -5
+line 40 20 40 13
+line 39 22 39 11 19 11
+line 38 22 38 12 11 12 11 11
+line 37 22 37 13 35 13
+line 36 24 36 14 35 14
+line 36 25 32 25 32 14 12 14
+line 38 26 31 26 31 16 12 16
+line 39 26 39 27 30 27 30 18 12 18
+key 1
+camera 13 51
+key 4
+key shift+r
+click -11 66
+key shift+r
+click -9 68
+key 1
+line -9 67 0 67 0 34
+line -10 66 -1 66 -1 34
+key 1
+
+#lv6 circle and red start
+#cam position might not be ideal
+camera 50 42
+key 4
+line 71 50 73 50
+key r
+line 72 51 72 52
+key r
+line 73 53 72 53
+line 71 55 69 55
+key r
+line 69 54 69 53
+line 71 53 71 51
+#mines facing left
+key 1
+line 71 56 71 58 75 58 75 27
+line 70 51 69 51
+line 70 52 66 52 66 27 73 27
+line 74 51 74 50
+line 72 49 72 28 74 28
+key 1
+#cam position might not be ideal
+camera 51 11
+key 4
+line 65 25 65 24
+line 56 11 56 10
+line 58 7 58 6
+click 56 5
+key r
+line 57 5 59 5
+line 60 7 59 7
+line 57 9 56 9
+line 64 23 66 23
+line 69 24 70 24
+click 72 25
+key r
+line 69 26 69 25
+click 58 10
+key r
+line 58 11 57 11
+#mine facing down
+key 1
+line 73 26 73 1 50 1 50 2 49 2
+line 74 28 74 -3
+line 75 26 75 -3
+click 72 24
+line 70 25 71 25 71 24
+line 70 23 70 16 47 16 47 13 46 13
+line 64 24 63 24 63 23
+line 64 22 64 17 46 17
+line 59 10 59 11
+line 57 12 57 14 55 14 55 11 52 11 52 7 46 7
+line 55 5 46 5 46 -5
+click 60 5
+click 56 7
+line 58 4 58 2 51 2 51 4 47 4 47 -5
+key shift+r
+click 56 6
+key 1
+#cam position might not be ideal
+camera 50 -2
+key 1
+line 46 -6 46 -10
+line 47 -6 47 -20
+line 74 -4 74 -7 50 -7
+line 75 -4 75 -17 50 -17
+key 1
+#lv6 circle and red end
+#lv 8 squares and blue start
+camera -90 3
+key 4
+line -72 -5 -73 -5
+line -121 7 -122 7
+key r
+line -74 -4 -74 -8
+line -60 3 -60 2
+key r
+line -74 -9 -72 -9
+line -61 1 -59 1
+line -121 6 -122 6
+click -122 4
+key r
+line -73 -8 -73 -7
+line -71 -6 -71 -4
+line -71 5 -71 8
+click -69 5
+line -120 4 -120 8
+#mines facing right
+key 1
+line -121 5 -121 2 -119 2 -119 3 -79 3 -79 -14 -59 -14
+line -119 7 -78 7 -78 3 -63 3 -63 -4 -59 -4
+line -72 -10 -72 -12 -60 -12
+line -70 -5 -68 -5 -68 -8 -59 -8
+line -70 6 -67 6 -67 11 -62 11
+line -60 0 -60 -2 -59 -2
+line -72 -8 -71 -8 -71 -9
+line -72 -4 -72 -3 -71 -3
+line -75 -4 -76 -4 -76 -5
+line -78 -5 -78 2 -65 2
+line -61 2 -62 2 -62 1
+line -60 20 -60 8 -59 8
+key 1
+camera -92 33
+key 4
+line -107 27 -107 24
+rclick -107 25
+line -109 24 -109 25
+key r
+line -119 41 -123 41
+key r
+key r
+line -122 40 -118 40
+#mines facing up
+key 1
+line -108 25 -62 25 -62 22
+line -120 39 -120 36 -62 36
+line -121 42 -121 45 -62 45
+line -122 39 -122 38 -121 38
+line -123 42 -123 43 -122 43
+key 1
+camera -37 28
+key 1
+line -61 36 -60 36 -60 19
+line -61 45 -59 45 -59 18
+key 1
+#lv 8 squares and blue end
+
+#lv 10 green,blue,stars part A
+camera 16 -107
+key 4
+key up
+click 24 -120
+click 25 -120
+line 26 -122 28 -122
+key r
+click 25 -119
+key r
+line 29 -121 26 -121
+line 25 -118 23 -118
+key r
+click 23 -119
+click 23 -120
+key 1
+line 25 -121 25 -122 20 -122 20 -95
+line 24 -117 24 -95
+line 26 -118 26 -95
+key right
+click 26 -119
+key left
+click 26 -123
+click 26 -124
+click 27 -124
+key 1
+camera 14 -55
+key 4
+click 5 -70
+line 7 -70 7 -67
+click 4 -57
+line 6 -57 6 -54
+line 24 -57 24 -55
+click 39 -45
+line 39 -43 39 -40
+key down
+click 27 -53
+line 27 -55 30 -55
+key up
+line 26 -57 25 -57
+line 39 -46 40 -46
+key right
+line 41 -47 41 -45
+line 40 -43 40 -40
+click 42 -42
+key 1
+line 6 -69 -7 -69 -7 -42
+line 5 -56 2 -56 2 -47
+line 23 -56 21 -56 21 -45 -5 -45
+line 28 -54 28 -43 13 -43
+line 38 -42 15 -42
+key 1
+camera 39 -47
+key 4
+key down
+line 53 -41 54 -41
+line 55 -40 57 -40
+key right
+line 57 -42 57 -41
+key left
+line 69 -43 69 -41
+key 1
+line 68 -41 60 -41
+key right
+click 59 -41
+key 1
+#lv 10 green,blue,stars partA done
+
+#lv 10 green,blue,stars partB
+camera -75 -62
+key 4
+key left
+line -94 -78 -94 -77
+line -95 -76 -95 -74
+key right
+line -94 -74 -94 -75
+line -93 -76 -93 -78
+key 4
+camera -49 -31
+key 4
+line -69 -37 -69 -39
+line -70 -40 -70 -41
+key up
+line -70 -42 -72 -42
+key left
+line -72 -41 -72 -40
+key 1
+line -74 -41 -74 -42 -73 -42
+key 1
+#lv 10 green,blue,stars partB done
+
+#lv 9 red,blue,circles partA
+camera -36 64
+key 4
+key right
+line -58 54 -58 56
+line -60 56 -60 58
+key up
+line -60 54 -59 54
+line -15 66 -13 66
+line -12 68 -11 68
+key down
+line -13 67 -14 67
+line -61 58 -62 58
+key left
+line -15 67 -15 68
+click -10 69
+key 1
+line -11 69 -11 70 -15 70
+line -14 69 -15 69
+line -12 67 -12 66
+line -61 60 -60 60 -60 59
+line -59 52 -58 52 -58 53
+key 1
+camera -48 64
+key 4
+key up
+line -77 53 -75 53
+line -55 69 -53 69
+key right
+line -54 71 -54 70
+line -75 59 -75 57
+line -76 56 -76 55
+line -71 55 -71 56
+key left
+line -56 69 -56 71
+line -55 72 -55 73
+key 1
+line -52 70 -52 69
+line -69 55 -69 51
+line -75 52 -75 50 -69 50
+key 1
+camera -15 89
+key 4
+key up
+line -40 85 -38 85
+line -41 87 -40 87
+line 7 97 9 97
+key right
+line -39 86 -39 88
+line -40 89 -40 90
+line 8 84 8 86
+line 7 87 7 88
+key left
+line 6 88 6 86
+line 7 85 7 84
+line 8 98 8 102
+line 6 102 6 103
+key down
+click 7 103
+key 1
+line -41 86 -41 85
+line 7 101 6 101
+line 6 98 6 97
+key 1
+camera -6 108
+key 4
+key up
+line -20 119 -22 119
+line -22 121 -26 121
+key left
+line -25 122 -25 123
+key 1
+line -23 120 -23 119
+line 7 104 6 104
+key 1
+camera 18 34
+key 4
+key down
+line 23 40 24 40
+line 25 41 27 41
+key right
+line 23 38 23 39
+click 25 39
+line 27 39 27 40
+key 1
+line 24 38 28 38
+key 1
+#lv 9 red,blue,circles partA done
+
+camera -5 2
+wait 1
+rclick -7 -3
+rclick -4 -4
+rclick -8 -1
+rclick -7 1
+rclick -4 5
+rclick -1 6
+#cleared for lv2  pt1
+key 4
+key left
+click 3 -10
+key r
+click 4 -10
+click 5 -10
+key r
+click 5 -9
+click 7 -6
+click 7 -4
+key r
+click 5 -8
+click 6 -4
+key 1
+line -14 7 -29 7 -29 4
+key r
+click -6 6
+line 5 -7 11 -7 11 -5
+#level 4 upper squares placed
+#level 4 circles place start
+#belt order is abit odd due to making sure belt rotation is a specific way before 'line 5 -7 11 -7 11 -5', otherwise a square is deleted
+##assume start right facing
+key 4
+key shift+r
+click -7 6
+key r
+key r
+click -13 7
+key 4
+#level 4 circles place start
+
+camera 32 -71
+key 4
+line 50 -87 50 -88
+key shift+r
+line 49 -86 51 -86
+key 1
+line 48 -87 48 -86
+line 49 -85 49 -56
+key 1
+camera 34 -41
+key 4
+line 50 -39 51 -39
+click 51 -37
+key shift+r
+line 52 -37 52 -38
+key 1
+line 49 -55 49 -32 46 -32
+line 51 -36 51 -28 44 -28
+key shift+r
+click 50 -37
+line 54 -37 54 -36 52 -36
+key 1
+
+camera -5 2
+#18 frame gap
+until 1028
+rclick -4 1
+rclick -3 3
+rclick 1 3
+#cleared for lv2  pt2
+
+#lv12 white maker1 mines
+camera 167 -5
+key 4
+key down
+line 149 -13 148 -13
+line 147 -12 145 -12
+key up
+line 147 -14 146 -14
+line 157 3 155 3
+line 154 4 153 4
+key left
+line 145 -15 145 -13
+line 196 -13 196 -12
+line 197 -11 197 -8
+line 194 -12 194 -10
+click 195 -8
+key 1
+line 146 -11 146 -9 142 -9
+line 144 -14 142 -14 142 -10
+line 146 -15 146 -16 145 -16
+line 195 -13 194 -13
+line 193 -11 191 -11 191 -8
+line 194 -8 193 -8 193 -7 191 -7
+line 155 2 155 0 139 0
+key 1
+
+camera -5 2
+#85 frame gap
+until 1116 waiting for lv2
+level 955 770

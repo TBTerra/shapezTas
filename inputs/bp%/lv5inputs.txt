@@ -1,0 +1,1281 @@
+key 6
+line 18 8 5 8
+key shift+r
+line 10 13 10 18
+key shift+r
+line -7 -9 -7 -8
+line -9 -9 -9 -8
+line -11 -9 -11 -8
+line -15 -9 -15 -8
+line -17 -9 -17 -8
+line -19 -9 -19 -8
+key shift+r
+line -27 0 -26 0
+line -27 2 -26 2
+line -27 4 -26 4
+key r
+click -8 -5
+click -10 -5
+click -12 -5
+click -16 -5
+click -18 -5
+click -20 -5
+key shift+r
+click -23 1
+click -23 3
+click -23 5
+key 1
+line -20 1 -19 1
+keyD ctrl
+line -23 6 -23 0
+key r
+line -21 -5 -7 -5
+key r
+click 6 12
+key r
+click 11 4
+click 19 4
+keyU ctrl
+key 6
+click -23 -1
+key r
+click -14 -5
+click -6 -5
+key r
+click 6 13
+click 6 15
+click 6 17
+click 6 19
+key r
+click 4 4
+click 6 4
+click 8 4
+click 10 4
+click 12 4
+click 14 4
+click 16 4
+click 18 4
+key 6
+##just cleanup from lv4
+keyD ctrl
+line 7 -2 11 -9
+key del
+line 6 -7 5 -9
+key del
+keyU ctrl
+camera 1 -1
+key 5
+click 11 -4
+click 11 -8
+line 7 -3 7 -17
+key 1
+key shift+r
+click 12 -4
+key 6
+key shift+r
+line 10 -5 8 -5
+line 10 -9 8 -9
+line 10 -13 8 -13
+line 10 -17 8 -17
+click 10 -16
+click 10 -12
+click 10 -8
+click 10 -4
+key 1
+keyD shift
+line 9 -16 8 -15
+line 9 -12 8 -11
+line 9 -8 8 -7
+line 9 -4 8 -3
+keyU shift
+key 1
+camera 0 19
+keyD ctrl
+line 4 19 -2 31
+key del
+keyU ctrl
+key 1
+line 0 33 0 28 3 28
+line -1 33 -1 28
+keyD ctrl
+line -1 22 5 22
+keyU ctrl
+key 5
+key r
+click -1 27
+click 3 27
+line -2 23 4 23
+key shift+r
+key 6
+key r
+click -1 26
+click 3 26
+line 0 26 0 24
+line 4 26 4 24
+key 1
+keyD shift
+line -1 25 -2 24
+line 3 25 2 24
+keyU shift
+key 6
+click -2 22
+click 0 22
+click 2 22
+click 4 22
+key shift+r
+key 6
+camera 0 7
+until 3205 waiting till extract 2
+upgrade 2 658 304 658 628 788 304 788 466
+keyD ctrl
+line -12 2 -3 7
+key del
+keyU ctrl
+key 2
+key shift+r
+line 8 0 2 0
+key r
+key r
+line -18 1 -3 1
+line -10 -1 -3 -1
+key shift+r
+line -2 21 4 21
+click 3 20
+line -1 20 -1 19
+line 0 18 0 12
+key r
+key 1
+line 3 19 1 19
+key 1
+
+#lv12 lines 5-6 stuff
+camera -200 106
+key 2
+key left
+click -217 119
+key up
+click -220 121
+click -219 120
+line -219 117 -217 115 -214 118
+key right
+line -216 120 -215 121
+key up
+line -217 114 -217 89
+key 2
+camera -229 76
+key 2
+line -217 88 -217 59
+key 2
+camera -229 45
+key 2
+line -217 58 -217 28
+key 2
+camera -220 17
+key 2
+line -244 4 -246 2 -247 3
+key down
+line -246 6 -244 8 -243 7
+key right
+line -195 24 -193 22 -194 21
+line -241 10 -191 10
+line -215 13 -191 13
+key up
+line -217 27 -217 15
+key left
+line -197 22 -199 24 -198 25
+key right
+click -191 30
+key 1
+line -217 14 -217 13 -216 13
+click -216 14
+key 1
+camera -167 17
+key 2
+line -170 19 -168 21 -169 22
+key left
+line -172 22 -172 24 -174 22
+key right
+line -190 13 -137 13
+line -190 10 -137 10
+line -190 30 -137 30
+line -166 28 -137 28
+key 2
+camera -113 17
+key 2
+key right
+line -136 30 -102 30
+line -136 28 -110 28
+line -136 13 -125 13
+line -136 10 -112 10
+line -115 1 -95 1
+key up
+line -124 8 -124 2
+key 2
+camera -125 -13
+key 2
+key right
+line -111 -17 -98 -17
+key down
+line -112 -29 -112 -18
+key 1
+line -113 -17 -113 -16 -112 -16
+click -112 -17
+key 1
+camera -141 -23
+key 2
+key down
+line -112 -34 -112 -30
+key right
+line -167 -36 -114 -36
+key 1
+line -113 -36 -112 -36 -112 -35
+click -113 -35
+key 1
+camera -146 -23
+key 2
+key down
+line -174 -38 -172 -38 -174 -36
+key right
+click -171 -37
+line -169 -36 -169 -38 -168 -37
+key 2
+
+#lv12 lines 1-4 stuff
+camera 71 108
+key 2
+key right
+line 89 123 89 121 90 122
+key left
+click 86 123
+key up
+click 85 120
+line 88 119 90 119
+click 88 117
+line 89 116 89 92
+key 2
+camera 94 80
+key 2
+line 89 91 89 64
+key 2
+camera 105 50
+key 2
+line 89 63 89 48
+line 103 54 105 52 106 53
+key left
+line 134 44 98 44
+line 101 56 98 59
+key 2
+camera 154 30
+key 2
+key left
+line 174 44 135 44
+line 174 31 138 31
+line 174 29 136 29
+key 2
+camera 133 0
+key 2
+key up
+line 153 3 155 1 156 2
+line 132 4 134 2 135 3
+click 146 -15
+key down
+line 149 -12 147 -10 146 -11
+key left
+line 144 -15 144 -13 143 -14
+line 141 -9 103 -9
+line 163 -7 103 -7
+line 133 1 103 1
+key 1
+line 138 0 134 0
+click 134 1
+key 1
+camera 84 -26
+key 2 
+key right
+click 106 -39
+key down
+line 107 -36 105 -36 106 -35
+key 2
+camera 76 -28
+#until 4231 space for bp prep
+key 2
+key right
+line 73 -43 75 -41 74 -40
+key left
+line 104 -41 102 -39 103 -38
+key 2
+camera -86 -62
+key 2
+key down
+click -105 -77
+line -106 -75 -104 -75 -105 -74
+key left
+line -108 -77 -110 -75 -109 -74
+key 1
+line -111 -75 -111 -45
+line -105 -64 -105 -45
+key 1
+camera -86 -32
+key 2
+key left
+click -105 -24
+key right
+click -102 -25
+key up
+line -103 -27 -105 -27 -104 -28
+key down
+line -103 -22 -105 -22 -104 -21
+key 1
+line -103 -29 -103 -31 -81 -31
+line -104 -20 -82 -20 -82 -22
+line -105 -44 -105 -34 -80 -34
+line -111 -44 -111 -19 -81 -19
+key 1
+
+#lv12 lines 1-4 blue painters
+camera 109 20
+key 2
+key left
+click 135 28
+click 135 30
+click 135 34
+click 134 33
+click 132 33
+click 130 33
+click 128 33
+click 126 33
+click 124 33
+click 122 33
+line 133 30 119 30
+click 133 28
+click 131 28
+click 129 28
+click 127 28
+click 125 28
+click 123 28
+key 6
+key left
+line 134 30 134 29
+key 1
+line 137 31 137 34 109 34 109 33 101 33
+line 137 30 136 30 136 33 119 33
+keyD ctrl
+key up
+line 133 32 101 32
+rclick 109 32
+line 134 27 120 27
+keyU ctrl
+line 134 28 120 28
+line 117 29 111 29
+line 116 33 110 33
+key 2
+click 138 17
+click 137 16
+click 135 16
+click 133 16
+click 128 16
+click 126 16
+click 124 16
+click 139 12
+click 138 11
+click 136 11
+click 134 11
+click 129 11
+click 127 11
+click 125 11
+key 1
+line 138 18 119 18 119 14
+line 136 16 130 16
+line 139 13 120 13 120 10
+line 137 11 131 11
+keyD ctrl
+key up
+line 137 10 122 10
+rclick 130 10
+line 136 15 121 15
+rclick 129 15
+keyU ctrl
+line 138 12 130 12 130 11 122 11
+line 137 17 129 17 129 16 121 16
+key 2
+click 127 13
+click 125 13
+key 6
+line 126 13 126 12
+key 2
+click 118 34
+click 117 33
+click 115 33
+click 113 33
+click 108 33
+click 106 33
+click 104 33
+click 118 29
+click 116 29
+click 114 29
+click 109 29
+click 107 29
+click 105 29
+click 118 14
+click 117 13
+click 115 13
+click 113 13
+click 108 13
+click 106 13
+click 104 13
+click 119 10
+click 118 9
+click 116 9
+click 114 9
+click 109 9
+click 107 9
+click 105 9
+key 1
+key up
+keyD ctrl
+line 117 28 102 28
+rclick 110 28
+line 116 12 101 12
+rclick 109 12
+line 117 8 102 8
+rclick 110 8
+keyU ctrl
+line 117 29 111 29
+line 118 30 110 30 110 29 102 29
+line 116 13 110 13
+line 117 14 109 14 109 13 101 13
+line 117 9 111 9
+line 118 10 110 10 110 9 102 9
+key 2
+click 131 24
+click 129 24
+click 127 24
+click 125 24
+click 123 24
+click 121 24
+click 119 24
+click 118 23
+click 114 25
+click 112 25
+click 110 25
+click 107 25
+click 105 25
+click 103 25
+click 101 25
+line 116 23 101 23
+line 100 24 77 24
+key 1
+keyD ctrl
+key up
+line 132 24 120 24
+line 115 25 102 25
+keyU ctrl
+line 117 25 117 24 102 24
+line 134 24 134 23 120 23
+key 6
+key left
+line 117 23 117 22
+
+#lv12 line 1-4 blue painters output lines 1-2
+key 2
+key left
+click 134 7
+click 132 7
+click 130 7
+click 127 7
+click 125 7
+click 123 7
+click 121 7
+click 119 3
+click 114 5
+click 112 5
+click 110 5
+click 107 5
+click 105 5
+click 103 5
+click 101 5
+line 117 3 101 3
+line 100 4 97 4
+key 1
+line 137 7 137 6 120 6 120 3
+line 117 5 117 4 102 4
+keyD ctrl
+key up
+line 135 7 122 7
+line 115 5 102 5
+keyU ctrl
+line 96 3 96 2 94 2
+line 96 4 94 4 94 3
+key 6
+line 118 3 118 2
+key 2
+line 93 3 77 3
+key 2
+
+#lv12 lanes 1-2 white circle input lines
+camera 98 -1
+key 2
+key left
+click 93 -12
+click 91 -12
+click 89 -12
+click 87 -12
+click 85 -12
+click 83 -12
+click 81 -12
+key 1
+key up
+keyD ctrl
+line 92 -13 78 -13
+keyU ctrl
+line 93 -12 78 -12
+key 2
+line 96 -9 102 -9
+line 98 -7 102 -7
+line 100 1 102 1
+click 93 -7
+click 91 -7
+click 89 -7
+click 87 -7
+click 85 -7
+click 83 -7
+click 81 -7
+click 93 -2
+click 90 -2
+click 86 -2
+click 82 -2
+click 92 1
+click 88 1
+click 84 1
+click 89 -16
+click 87 -16
+click 85 -16
+click 83 -16
+click 81 -16
+click 79 -16
+click 77 -16
+key up
+line 90 -4 78 -4
+key 1
+line 95 -10 94 -10 94 -8
+line 95 -9 95 -5
+line 97 -8 96 -8 96 -3 94 -3
+line 97 -7 97 -1
+line 99 0 98 0 98 1 79 1 79 0
+line 92 -16 92 -17 78 -17
+key down
+click 99 1
+key up
+keyD ctrl
+line 91 0 83 0
+line 92 -4 92 -3 77 -3 77 -4
+line 92 -8 78 -8 78 -9 92 -9
+line 78 8 92 8
+line 90 -16 78 -16
+keyU ctrl
+line 92 -2 77 -2
+line 92 -7 78 -7
+line 78 9 92 9
+key 2
+key right
+click 77 8
+click 79 8
+click 81 8
+click 83 8
+click 85 8
+click 87 8
+click 89 8
+key left
+click 89 5
+click 87 5
+click 85 5
+click 83 5
+click 81 5
+click 79 5
+click 77 5
+key 1
+line 92 5 92 4 78 4
+line 77 -6 77 -14
+keyD ctrl
+key up
+line 90 5 78 5
+keyU ctrl
+key 1
+camera 84 22
+key 1
+line 95 6 95 13 94 13
+line 97 6 97 18 94 18
+line 99 6 99 21 93 21
+line 91 22 79 22
+line 92 19 77 19
+line 92 14 78 14
+line 77 15 77 12
+keyD ctrl
+key up
+line 91 21 79 21
+line 92 17 92 18 77 18 77 17
+line 92 13 78 13 78 12 92 12
+keyU ctrl
+key 2
+key up
+line 90 17 78 17
+key left
+click 93 14
+click 91 14
+click 89 14
+click 87 14
+click 85 14
+click 83 14
+click 81 14
+click 82 19
+click 86 19
+click 90 19
+click 93 19
+click 92 22
+click 88 22
+click 84 22
+key 2
+
+#lv12 lanes 3-4 white circle input lines
+camera 69 34
+key 1
+line 97 44 97 45 77 45
+line 97 43 97 35 80 35
+line 89 47 89 46 77 46
+line 87 48 87 47 77 47
+line 95 43 81 43
+line 96 43 96 40 79 40 79 38
+line 78 30 92 30
+key up
+keyD ctrl
+line 78 29 92 29
+line 94 33 80 33 80 34 94 34
+line 83 39 94 39 94 38
+line 93 42 81 42
+keyU ctrl
+key 2
+key right
+click 77 29
+click 79 29
+click 81 29
+click 83 29
+click 85 29
+click 87 29
+click 89 29
+key left
+click 95 35
+click 93 35
+click 91 35
+click 89 35
+click 87 35
+click 85 35
+click 83 35
+key up
+line 92 38 80 38
+key left
+click 95 40
+click 92 40
+click 88 40
+click 84 40
+click 94 43
+click 90 43
+click 86 43
+key right
+line 48 41 48 29
+key up
+click 56 42
+click 56 40
+click 56 38
+click 56 36
+click 56 34
+click 56 32
+click 56 30
+click 51 44
+click 51 42
+click 51 40
+click 51 38
+click 51 36
+click 51 34
+click 51 32
+click 46 44
+click 46 41
+click 46 37
+click 46 33
+click 43 43
+click 43 39
+click 43 35
+key 1
+line 64 45 52 45
+line 64 46 46 46 46 28 48 28
+line 64 47 43 47 43 30
+line 51 43 51 29
+line 56 41 56 27
+key right
+keyD ctrl
+line 57 27 57 41
+line 53 29 53 43 52 43 52 29
+line 48 43 47 43 47 32
+line 44 42 44 30
+line 60 39 60 27
+key up
+line 90 26 78 26
+keyU ctrl
+line 92 26 92 25 78 25
+line 60 41 61 41 61 25
+line 50 28 53 28
+line 79 36 79 33
+line 93 31 93 28
+key 2
+key up
+click 60 38
+click 60 36
+click 60 34
+click 60 32
+click 60 30
+click 60 28
+click 60 26
+line 61 24 61 18
+key left
+click 89 26
+click 87 26
+click 85 26
+click 83 26
+click 81 26
+click 79 26
+click 77 26
+key 1
+line 65 43 57 43
+key 1
+
+#lv12 lanes 5-6 blue back input lines
+camera -71 -1
+key 1
+line -97 -16 -97 0
+line -97 -17 -88 -17 -88 0
+line -94 1 -94 -15
+line -90 -15 -89 -15 -89 -1
+line -94 2 -85 2 -85 -15
+line -81 -15 -80 -15 -80 -1
+keyD ctrl
+key right
+line -96 -14 -96 0
+line -93 -1 -93 -15
+line -90 -13 -90 -1
+line -87 0 -87 -14
+line -84 -15 -84 -1
+line -81 -13 -81 1
+keyU ctrl
+key 2
+key down
+click -96 -15
+click -96 -13
+click -96 -11
+click -96 -9
+click -96 -7
+click -96 -5
+click -96 -3
+click -87 -15
+click -87 -13
+click -87 -11
+click -87 -9
+click -87 -7
+click -87 -5
+click -87 -3
+key up
+click -94 0
+click -94 -2
+click -94 -4
+click -94 -6
+click -94 -8
+click -94 -10
+click -94 -12
+click -85 0
+click -85 -2
+click -85 -4
+click -85 -6
+click -85 -8
+click -85 -10
+click -85 -12
+key down
+click -89 -12
+click -89 -10
+click -89 -8
+click -89 -6
+click -89 -4
+click -89 -2
+click -89 0
+click -80 -12
+click -80 -10
+click -80 -8
+click -80 -6
+click -80 -4
+click -80 -2
+click -80 0
+key 2
+
+#lv12 lanes 5-6 white circle input lines
+camera -98 17
+key 1
+line -124 1 -124 0 -116 0 -116 1
+line -123 1 -118 1 -118 2 -116 2
+key right
+click -124 13
+line -124 14 -123 14
+key 2
+key right
+line -122 0 -119 0
+line -104 9 -104 21
+line -85 9 -85 21
+key up
+click -109 23
+click -109 19
+click -109 15
+click -101 24
+click -101 22
+click -101 20
+click -101 18
+click -101 16
+click -101 14
+click -101 12
+click -92 20
+click -92 18
+click -92 16
+click -92 14
+click -92 12
+click -92 10
+click -92 8
+click -90 23
+click -90 19
+click -90 15
+click -82 24
+click -82 22
+click -82 20
+click -82 18
+click -82 16
+click -82 14
+click -82 12
+click -77 24
+click -77 22
+click -77 20
+click -77 18
+click -77 16
+click -77 14
+click -77 12
+click -73 20
+click -73 18
+click -73 16
+click -73 14
+click -73 12
+click -73 10
+click -73 8
+key down
+click -105 11
+click -105 15
+click -105 19
+click -95 8
+click -95 10
+click -95 12
+click -95 14
+click -95 16
+click -95 18
+click -95 20
+click -86 11
+click -86 15
+click -86 19
+key 1
+line -111 11 -111 27
+line -111 10 -111 9
+line -109 28 -109 10
+line -106 8 -106 23
+line -109 29 -103 29
+line -101 30 -101 26
+line -101 23 -101 9
+line -96 9 -96 23
+line -92 23 -91 23 -91 9
+line -101 31 -90 31 -90 27
+line -90 22 -90 10
+line -87 8 -87 23 -85 23
+line -82 23 -82 9
+line -77 23 -77 9
+line -102 8 -99 8
+line -83 8 -75 8
+line -73 23 -72 23 -72 7
+line -99 29 -92 29
+line -88 29 -82 29
+line -99 27 -92 27
+line -88 27 -77 27 -77 26
+line -104 27 -103 27
+line -111 5 -96 5 -96 6
+keyD ctrl
+key right
+line -108 10 -108 22
+line -105 12 -105 23 -104 23
+line -100 23 -100 9 -99 9 -99 23
+line -95 9 -95 23
+line -92 21 -92 9
+line -89 10 -89 22
+line -86 20 -86 8 -85 8
+line -80 9 -80 23 -81 23 -81 9
+line -76 9 -76 23
+line -73 21 -73 9
+keyU ctrl
+key 1
+
+#lv11 extra lane mines+factory base
+camera 0 114
+key 2
+key down
+line 20 104 22 106 23 105
+line -9 122 -11 124 -12 123
+click -14 123
+click -15 124
+click -14 125
+key up
+click -15 120
+key down
+line 22 107 22 115
+key left
+line 20 117 -16 117
+key down
+line -17 118 -17 123
+key 2
+camera -40 114
+key 2
+key left
+click -50 127
+line -19 125 -45 125
+line -16 127 -48 127
+key up
+line -47 123 -47 97
+line -50 125 -50 97
+key 2
+camera -76 114
+key 2
+key up
+line -105 116 -103 116 -104 115
+line -91 104 -89 104 -90 103
+key right
+click -103 118
+click -89 106
+key left
+line -50 127 -82 127
+key up
+line -84 125 -84 97
+key 2
+camera -64 81
+key 2
+key up
+line -84 96 -84 74
+line -50 96 -50 65
+line -47 96 -47 65
+key 2
+camera -60 57
+key 2
+key up
+line -50 64 -50 59
+line -47 64 -47 60
+line -87 70 -83 70
+line -87 67 -83 67
+line -87 64 -83 64
+line -87 61 -83 61
+line -87 58 -83 58
+line -87 55 -83 55
+line -87 52 -83 52
+line -87 49 -83 49
+key 1
+line -83 69 -83 50
+line -84 69 -84 50
+line -87 69 -87 50
+line -79 69 -78 69 -78 46 -60 46
+keyD ctrl
+key right
+line -82 69 -82 48
+line -79 66 -79 48
+keyU ctrl
+key left
+click -47 59
+click -53 59
+key 2
+click -79 65
+click -79 62
+click -79 59
+click -79 56
+click -79 53
+click -79 50
+click -79 47
+key 2
+camera -33 30
+key 2
+click -51 45
+click -51 43
+click -51 41
+click -51 39
+click -51 37
+click -51 35
+click -51 33
+click -54 44
+click -54 42
+click -54 40
+click -54 38
+click -54 36
+click -54 34
+click -54 32
+click -58 40
+click -58 38
+click -58 36
+click -58 34
+click -58 32
+click -58 30
+click -58 28
+key 1
+line -57 43 -58 43 -58 21
+line -50 46 -50 30
+line -53 46 -53 29
+keyD ctrl
+key left
+line -51 44 -51 30
+line -54 43 -54 29
+line -57 41 -57 29
+keyU ctrl
+key 1
+
+##inset every build here
+
+camera 0 0
+until 5293
+camera 0 7
+until 5298 thing 1
+key 1
+line 1 12 1 11
+key 1
+##lv6 conversion start
+rclick 17 7
+key 6
+key up
+click 18 7
+click 18 6
+key 1
+line 17 7 17 6 16 6
+key 5
+key r
+line 16 5 18 5
+key 6
+rclick 9 17
+key shift+r
+line 9 17 8 17
+key 1
+line 9 18 8 18 8 19
+key 5
+key shift+r
+line 7 19 7 17
+key 6
+rclick 14 7
+rclick 15 7
+key r
+line 14 7 14 6
+key 1
+line 13 7 13 6 12 6
+key 5
+key r
+line 12 5 14 5
+key 6
+rclick 9 14
+key shift+r
+line 9 13 8 13
+key 1
+line 9 14 8 14 8 15
+key 5
+key shift+r
+line 7 15 7 13
+key 5
+##lv6 conversion right side 2 of 3 done, moving to left side
+keyD ctrl
+line -24 5 -26 0
+key del
+keyU ctrl
+key 6
+key r
+key r
+line -27 5 -25 5
+line -27 1 -25 1
+key 1
+line -26 4 -25  4 -25 3
+line -26 0 -25 0 -25 -1
+key 5
+key r
+key r
+line -24 -1 -24 5
+key 5
+keyD ctrl
+line -20 -6 -13 -8
+key del
+keyU ctrl
+key 6
+key r
+line -20 -9 -20 -7
+line -16 -9 -16 -7
+key 1
+line -19 -8 -19 -7 -18 -7
+line -15 -8 -15 -7 -14 -7
+key 5
+key r
+line -20 -6 -14 -6
+key 5
+##lv6 conversion left side 2 of 3 done
+
+camera 0 -1
+until 5550 thing 2
+keyD ctrl
+line -12 -6 -7 -8
+key del
+keyU ctrl
+key 6
+key down
+line -12 -9 -12 -7
+line -8 -9 -8 -7
+key 1
+line -11 -8 -11 -7 -10 -7
+line -7 -8 -7 -7 -6 -7
+key 5
+line -12 -6 -6 -6
+key 5
+##lv6 conversion left side done
+##top squares replace with lv6 parts start
+keyD ctrl
+line 6 -2 2 -12
+key del
+keyU ctrl
+key 6
+key r
+click 6 -3
+click 6 -5
+click 6 -7
+click 6 -9
+click 6 -11
+click 6 -13
+click 6 -15
+click 6 -17
+key 1
+line 3 -16 2 -16 2 -10
+key r
+keyD ctrl
+line 6 -4 6 -18
+keyU ctrl
+key 2
+key left
+line 5 -3 5 -17
+click 4 -16
+click 4 -12
+click 4 -8
+click 4 -4
+key shift+r
+click 3 -3
+click 3 -11
+key 1
+line 3 -8 2 -8 2 -2
+click 3 -4
+click 3 -12
+line 0 11 0 10
+key 1
+##top squares replace end
+camera 0 -1
+until 5750 thing 3
+keyD ctrl
+line 9 7 5 5
+key del
+keyU ctrl
+key 6
+key r
+line 6 7 6 6
+line 10 7 10 6
+key 1
+line 5 7 5 6 4 6
+line 9 7 9 6 8 6
+key 5
+key r
+key r
+line 10 5 4 5
+key 5
+##lv6 conversion right side done
+until 5871
+camera 16 4
+until 5876 waiting till early start on lv7(then lv6 start)
+
+#lv7 early prep start
+keyD ctrl
+line 20 -5 43 18
+key del
+keyU ctrl
+key 2
+key r
+click 44 16
+click 42 16
+click 40 16
+click 38 16
+click 36 16
+click 34 16
+click 32 16
+click 30 16
+click 28 16
+click 26 16
+click 24 16
+line 25 15 41 15
+key 2
+
+#brief intermission to do an upgrade
+upgrade 1 788 304
+
+key 2
+line 42 14 24 14
+line 23 13 43 13
+key 2
+keyD ctrl
+line 42 14 24 14
+key del
+keyU ctrl
+key 2
+click 45 17
+key 1
+line 43 16 21 16
+line 45 13 20 13
+line 44 17 33 17 33 16
+keyD ctrl
+line 43 15 21 15
+line 42 12 20 12
+keyU ctrl
+rclick 19 12
+key 2
+click 44 6
+click 42 6
+click 40 6
+click 38 6
+click 36 6
+click 34 6
+click 32 6
+click 30 6
+click 28 6
+click 26 6
+click 24 6
+line 25 5 41 5
+line 42 4 24 4
+line 23 3 43 3
+click 45 7
+key 2
+keyD ctrl
+line 42 4 24 4
+key del
+keyU ctrl
+key 1
+line 43 6 21 6
+line 42 3 20 3
+line 44 7 33 7 33 6
+keyD ctrl
+line 43 5 21 5
+line 42 2 20 2
+keyU ctrl
+key 1
+#lv7 early prep end
+
+camera -35 -4
+wait 1
+level 959 650

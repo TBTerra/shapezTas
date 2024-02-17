@@ -1,0 +1,41 @@
+#pre-route should have 0 delay to next thing
+camera 0 0
+until 9271
+camera -4 -21
+until 9276 pre-wait till lv9
+key 1
+line 16 -37 15 -37 15 -27
+click 16 -27
+line -34 -25 -34 -24 -17 -24
+line -24 -25 -16 -25 -16 -24
+key 2
+key down
+line -16 -23 -16 -13
+line 16 -26 16 -12
+key 1
+key down
+click 15 -11
+line 16 -11 16 -4
+line 5 -12 2 -12 2 -8
+key 1
+camera -1 18
+key 1
+line -8 19 -8 11 -1 11 -1 9
+click 2 19
+line 11 19 3 19
+line 21 19 21 18 4 18 4 3
+key 2
+key up
+line 2 18 2 6
+key 2
+camera -5 29
+key 1
+line -19 45 -18 45 -18 35
+click -19 35
+key 2
+line -19 34 -19 24
+key 2
+#get mixers unlocked
+camera 15 -25
+until 9340 waiting till lv9
+level 959 658
