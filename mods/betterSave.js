@@ -57,13 +57,14 @@ class Mod extends shapez.Mod {
 		// This would fail to save as it creates infinite recursion saving inputSlots:
 		// entity => component => entity, etc.
 		//
-		// It seems some bogus internal JavaScript function binding nonsense
-		// passes the building "this" object ( from addAchievementReceiver I guess? )
-		// to the component's call to tryTakeItem()...
-		// replacing the first argument that should be the item
-		// And that function luckily doesn't even use the second argument for trash buildings
-		// And this does mean the item trashed is forgotten about in code.
-		// (Ironically that's the purpose of the trash building so it seems to work fine!)
+		// It seems some bogus internal JavaScript function binding nonsense confused the programmer here
+		// The replacement function calls the original like so: tryTakeItem(...arguments)
+		// But this actually passes along the arguments of addAchievementReceiver(), 
+		// NOT the arguments of the () => {} replacement function!
+		// That is to say: entity is passed in where tryTakeItem expects an item.
+		// (And tryTakeItem luckily doesn't even use the second argument for trash buildings which would be empty)
+		// And this does mean the item trashed is forgotten about in code...
+		// Ironically that's the purpose of the trash building so it seems to work fine and no one noticed!
 		// So yes, Trash buildings have always been trashing themselves,
 		// It just didn't matter until you try to save it...
 		// 
