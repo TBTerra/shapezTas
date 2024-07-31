@@ -48,6 +48,30 @@ class Mod extends shapez.Mod {
 				this.stage6PostLoadHook();
 			}
 		});
+
+		// Fix by alextd:
+		// Trash replaces its ItemProcessor's tryTakeItem function in addAchievementReceiver()
+		// which SOMEHOW ends up setting inputSlots to itself
+		// -- that is, it processes the trash building entity itself, not the input shape.
+		//
+		// This would fail to save as it creates infinite recursion saving inputSlots:
+		// entity => component => entity, etc.
+		//
+		// It seems some bogus internal JavaScript function binding nonsense confused the programmer here
+		// The replacement function calls the original like so: tryTakeItem(...arguments)
+		// But this actually passes along the arguments of addAchievementReceiver(), 
+		// NOT the arguments of the () => {} replacement function!
+		// That is to say: entity is passed in where tryTakeItem expects an item.
+		// (And tryTakeItem luckily doesn't even use the second argument for trash buildings which would be empty)
+		// And this does mean the item trashed is forgotten about in code...
+		// Ironically that's the purpose of the trash building so it seems to work fine and no one noticed!
+		// So yes, Trash buildings have always been trashing themselves,
+		// It just didn't matter until you try to save it...
+		// 
+		// Anyway that's all bullshit so let's remove the function replacement entirely.
+		// All it does is track an achievement.
+		// Who cares about this one stupid achievement.
+		this.modInterface.replaceMethod(shapez.MetaTrashBuilding, "addAchievementReceiver", function() {})
 	}
 }
 
